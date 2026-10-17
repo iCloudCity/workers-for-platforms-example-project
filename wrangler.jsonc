@@ -14,7 +14,7 @@
       "binding": "WORKER_MAPPINGS",
       "id": "91eef7f8236a405c9ce06f002dc4da94"
     }
-    ],
+  ],
 	"vars": {
 		"DISPATCH_NAMESPACE_NAME": "workers-for-platforms-example-project"
 	}
