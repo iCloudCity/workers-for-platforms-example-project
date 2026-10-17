@@ -14,6 +14,10 @@
 			"binding": "WORKER_MAPPINGS",
 			"id": "placeholder-kv-id",
 			"preview_id": "placeholder-preview-kv-id"
+		},
+		{
+			"binding": "WORKER_MAPPINGS",
+			"id": "91eef7f8236a405c9ce06f002dc4da94"
 		}
 	],
 	"vars": {
