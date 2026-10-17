@@ -23,7 +23,7 @@
     "deploy:wfp": "tsx scripts/deploy-wfp.ts",
     "dev": "wrangler dev",
     "start": "wrangler dev",
-    "deploy": "npm run deploy:wfp && wrangler deploy",
+    "deploy": "wrangler deploy",
     "lint": "npx eslint ./src",
     "format": "npx prettier --write '**/*.{ts,js,cjs,json}'"
   }
